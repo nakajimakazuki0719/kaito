@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+}
+h1{
+  opacity: 0;
+}
+@media screen and (orientation:landscape){
+  h1{
+    opacity: 1;
+  }
+}
